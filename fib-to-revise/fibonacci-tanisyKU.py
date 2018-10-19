@@ -67,6 +67,7 @@ def fib(n):
     
 
 print(fib(2018))
+
 #答えは In [31]の出力値
 
     
